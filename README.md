@@ -4,7 +4,7 @@
 
 :world_map: Boy from Santo André - SP / Brazil
 
-:computer: Software Developer Student at Trybe
+:computer: Software Engenieer at Nubank
 
 :heart: I love animals, books and write.
 
