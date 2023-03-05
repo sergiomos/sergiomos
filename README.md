@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/andssilva/)](https://www.linkedin.com/in/sergiomos/) [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/it_s_andy/)](https://www.instagram.com/sergio_mdo/)
 
-:world_map: Boy from Santo André - SP / Brazil
+:world_map: São Bernardo do Campo - SP / Brazil
 
 :computer: Software Engenieer at Nubank
 
